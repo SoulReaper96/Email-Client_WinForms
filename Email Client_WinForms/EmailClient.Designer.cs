@@ -1,4 +1,4 @@
-﻿namespace Email_Client_WinForms
+namespace Email_Client_WinForms
 {
     partial class EmailClient
     {
